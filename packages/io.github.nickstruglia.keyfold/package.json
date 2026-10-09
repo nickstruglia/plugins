@@ -1,6 +1,6 @@
 {
   "name": "sn-keyfold",
-  "version": "1.0.23",
+  "version": "1.0.31",
   "private": true,
   "description": "A key manager for Standard Notes: seed phrases, wallet, SSH and PGP keys, API tokens and recovery codes, in collapsible cards with hidden fields and checksum checks.",
   "author": "Nicholas Truglia",
